@@ -60,6 +60,12 @@ The client stores settings in the following locations:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
+### Support Development
+
+If you enjoy using NovaKrunker and want to support its development, you can buy me a coffee! ☕
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/superanelguy)
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
