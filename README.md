@@ -9,9 +9,6 @@
 
 **Download:**
 [Windows (x64)](https://github.com/superanelguy/novakrunker/releases/latest/download/novakrunker-setup-win-x64.exe) -
-[Mac (x64)](https://github.com/superanelguy/novakrunker/releases/latest/download/novakrunker-portable-mac-x64.dmg) -
-[Mac (arm64)](https://github.com/superanelguy/novakrunker/releases/latest/download/novakrunker-portable-mac-arm64.dmg) -
-[Linux (x86_64 AppImage)](https://github.com/superanelguy/novakrunker/releases/latest/download/novakrunker-portable-linux-x86_64.AppImage) -
 [Other](https://github.com/superanelguy/novakrunker/releases/latest)
 
 ![splash](assets/blank_splash.png)
