@@ -62,7 +62,7 @@ A customizable matchmaker (with GUI settings!) that you can use alongside/instea
 ## Building from Source
 1. **You have to have [git](https://git-scm.com/downloads), [nodejs](https://nodejs.org/en/download/), and [pnpm](https://pnpm.io/installation) installed.**
 2. **Installation:**
-   - `git clone https://github.com/superanelguy/novakrunker`
+   - `git clone https://github.com/superanelguy/nova_krunker`
    - `cd novakrunker`
    - `pnpm i`
 3. **Building from source:** `pnpm dist`
