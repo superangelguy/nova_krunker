@@ -1,8 +1,8 @@
 # NovaKrunker
 
-[![GitHub All Releases](https://img.shields.io/github/downloads/superanelguy/novakrunker/total.svg)](https://github.com/superanelguy/novakrunker/releases/latest)
-[![Latest release](https://img.shields.io/github/downloads/superanelguy/novakrunker/latest/total)](https://github.com/superanelguy/novakrunker/releases/latest)
-[![Chat](https://img.shields.io/discord/966300714060116008)](https://discord.gg/ZeVuxG7gQJ)
+[![GitHub All Releases](https://img.shields.io/github/downloads/superanelguy/nova_krunker/total.svg)](https://github.com/superanelguy/nova_krunker/releases/latest)
+[![Latest release](https://img.shields.io/github/downloads/superanelguy/nova_krunker/latest/total)](https://github.com/superanelguy/nova_krunker/releases/latest)
+[![Chat](https://img.shields.io/discord/966300714060116008)](https://discord.gg/2rgDnfJN2F)
 [![One-time donation via ko-fi.com](https://img.shields.io/badge/donate-ko--fi-%23ff5e5b?logo=kofi)](https://ko-fi.com/superanelguy)
 
 > A fast, feature-rich Krunker client written in TypeScript
